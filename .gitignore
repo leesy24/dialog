@@ -1,0 +1,11 @@
+*.o
+*.a
+*.tmp
+config.log
+config.status
+dialog
+dialog-config
+dlg_config.h
+headers-sh
+makefile
+
